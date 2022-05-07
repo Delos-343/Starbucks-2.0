@@ -1,0 +1,202 @@
+body {
+    background: #fff;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+ul, li, p, h1, h2, h3, body, html, figure {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2{
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #0c0c0c;
+}
+
+header {
+    display: flex;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    box-shadow: -5px 5px 10px -10px #2d3748;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+header .left, header .right {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+header .left {
+    letter-spacing: 1px;
+    padding-left: 20px;
+}
+
+header .left li {
+    margin-left: 1rem;
+}
+
+header .right {
+    margin-left: auto;
+    padding-right: 20px;
+}
+
+header a {
+    padding: 5px 15px;
+    font-weight: 600;
+    margin: 0 5px;
+}
+
+header li:first-child a {
+    padding-top: 10px;
+}
+
+header .button-01 a {
+    background: transparent;
+    border: 1px solid #0c0c0c;
+    border-radius: 20px;
+}
+
+header .button-02 a {
+    background: #0c0c0c;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.green {
+    background: #d4e9e2;
+}
+
+.content-home {
+    max-width: 1440px;
+    text-align: center;
+    margin: auto;
+}
+
+.content-home-bottom {
+    padding: 30px 0;
+}
+
+.starbucks {
+    margin: 30px 0 0;
+    display: flex;
+}
+
+.starbucks .list {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.starbucks .list .photo img {
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+}
+
+.starbucks .list .desc {
+    padding: 69px;
+}
+
+.starbucks .list .desc h1 {
+    line-height: 1.25;
+}
+
+.starbucks .list .desc h1 span {
+    font-size: 60%;
+    opacity: .75;
+}
+
+.starbucks .list .desc p {
+    font-size: 1.5rem;
+    margin: 20px;
+}
+
+.starbucks .list button {
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.starbucks .list button {
+    font-weight: 600;
+    font-size: .81rem;
+}
+
+footer {
+    max-width: 1440px;
+    border-top: 1px solid #ccc;
+    padding: 30px;
+    overflow: hidden;
+}
+
+footer h3 {
+    font-weight: 500;
+}
+
+footer .footer-l2 {
+    width: 1350px;
+    margin: auto;
+}
+
+footer .privacy {
+    display: flex;
+    list-style: none;
+    padding: 10px 0;
+    font-weight: 500;
+}
+
+footer .privacy li {
+    border-right: 1px solid #0c0c0c;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+
+footer .privacy li:last-child {
+    border: none;
+}
+
+footer .sosmed {
+    display: flex;
+    list-style: none;
+    padding: 10px 0;
+}
+
+footer .sosmed li {
+    margin: 30px 10px 0 0;
+    font-size: 30px;
+}
+
+footer .sitemap {
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 20px;
+}
+
+footer .sitemap .list {
+    margin-right: 50px;
+}
+
+footer .sitemap .list ul li {
+    display: block;
+}
+
+footer .sitemap .list ul li a {
+    display: block;
+    padding: 5px 0;
+    color: #666;
+}
+
+footer .copyrights {
+    padding: 10px 0 0;
+    color: #666;
+}
