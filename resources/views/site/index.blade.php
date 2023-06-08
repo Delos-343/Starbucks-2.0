@@ -1,5 +1,5 @@
 <x-layout>
-    <x-slot name="title"> Home | Starbucks 2.0</x-slot>
+    <x-slot name="title"> Home | Starbucks 2.0 </x-slot>
     <section class="home">
         <div class="content-home green">
             <div class="starbucks">
