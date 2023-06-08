@@ -14,7 +14,7 @@
                         <p>
                             Starting 4/22, get 25 Stars when you bring your clean, reusable cup into the café. Stars can quickly add up to Rewards.*
                         </p>
-                        <button><h3> Join now </h3></button>
+                        <button><h3> Join Now </h3></button>
                     </div>
                 </div>
             </div>
