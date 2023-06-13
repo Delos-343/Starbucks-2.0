@@ -94,8 +94,8 @@
                 </div>
             </div>
             <div class="note">
-                *NO PURCHASE NECESSARY. Participating stores only. Ends 10/24/21. To play and for Official Rules, <br />
-                visit starbucksrewardsstarland.com. Entrants can receive a maximum of 2 plays per day.
+                *NO PURCHASE NECESSARY. Participating stores only. Starbucks Partners (employees) are not eligible to win prizes. Ends 6/18/23. To play and for Official Rules visit starbuckssummergame.com.
+                Entrants can receive a maximum of 2 plays per day, plus, bonus opportunities to earn additional plays.
             </div>
         </div>
     </section>

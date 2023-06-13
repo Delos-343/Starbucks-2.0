@@ -72,7 +72,7 @@ header li:first-child a {
 } 
 .content-home .note {
     margin: 10px 0;
-    padding: 20px 0;
+    padding: 50px 7%;
 }
 .tahun50 {
     margin: 30px 0 0;
@@ -123,6 +123,7 @@ header li:first-child a {
 }
 .tahun50 .list .reward p {
     margin-bottom: 10px;
+    padding: 2%;
 }
 .tahun50 .list .reward a {
     border: 1px solid #000;
