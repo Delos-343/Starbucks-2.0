@@ -56,6 +56,7 @@
                             <li><a href="#"> Culture and Values </a></li>
                             <li><a href="#"> Inclusion, Diversity, and Equity </a></li>
                             <li><a href="#"> College Achievement Plan </a></li>
+                            <li><a href="#"> Alumni Community </a></li>
                             <li><a href="#"> U.S. Careers </a></li>
                             <li><a href="#"> International Careers </a></li>
                         </ul>
@@ -99,6 +100,7 @@
                 <ul class="privacy">
                     <li><a href="#"> Privacy Policy </a></li>
                     <li><a href="#"> Term of Use </a></li>
+                    <li><a href="#"> Do Not Share My Personal Information </a></li>
                     <li><a href="#"> CA Supply Chain Act </a></li>
                     <li><a href="#"> Cookie Preferences </a></li>
                 </ul>
