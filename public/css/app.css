@@ -69,10 +69,7 @@ header li:first-child a{
     max-width: 1440px;
     text-align: center;
     margin: auto;
-}
-.content-home-top {
-    padding: 20px 0;
-}
+} 
 .content-home .note {
     margin: 10px 0;
     padding: 20px 0;

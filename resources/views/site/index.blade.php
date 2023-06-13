@@ -1,12 +1,6 @@
 <x-layout>
     <x-slot name="title"> Home | Starbucks 2.0 </x-slot>
     <section class="home">
-        <div class="content-home green">
-            <div class="content-home-top">
-                Following CDC guidance, facial coverings are recommended in our stores for all customers, <br />
-                and are required where mandated by local law. Learn more
-            </div>
-        </div>
 
         <div class="content-home green">
             <div class="tahun50">
