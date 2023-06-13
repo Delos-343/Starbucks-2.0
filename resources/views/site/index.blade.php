@@ -74,24 +74,6 @@
             </div>
         </div>
 
-        <div class="content-home pink">
-            <div class="celeb">
-                <div class="list">
-                    <div class="desc">
-                        <h2> NEW DAY YOUR WAY </h2>
-                        <br />
-                        <p> Nitro Cold Brew: cold brew infused with nitrogen for a coffee with cascading, velvety crema. For a creamy twist, try it with Vanilla Sweet Cream. </p>
-                        <button> Order now </button>
-                    </div>
-                </div>
-                <div class="list">
-                    <div class="foto">
-                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/home-4.png') }}" alt="home 4" />
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <div class="content-home">
             <div class="note">
                 *NO PURCHASE NECESSARY. Participating stores only. Starbucks Partners (employees) are not eligible to win prizes. Ends 6/18/23. To play and for Official Rules visit starbuckssummergame.com.

@@ -5,6 +5,26 @@ html, body {
     width: 100%;
 }
 
+.button-01, .button-02 {
+    padding: 5px 5px;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+
+.button-01 {
+    border: 1px solid #000;
+}
+
+.button-02 {
+    border: 1px solid #fff;
+    background-color: #006241;
+    color: #f1f1f1;
+}
+
+.button-02 a {
+    color: #f1f1f1;
+}
+
 ul, li, p, h1, h2, h3, body, html, figure {
     padding: 0;
     margin: 0;
@@ -105,7 +125,7 @@ header li:first-child a {
 }
 .celeb .list button.btn-white {
     border: 1px solid #fff;
-    color: white;
+    color: #f1f1f1;
     padding: 10px 30px;
 }
 .celeb h1, .celeb h2 {
