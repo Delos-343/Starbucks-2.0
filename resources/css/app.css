@@ -1,5 +1,5 @@
 body {
-    background: white;
+    background: #f1f1f1;
     font-family: 'Hind Siliguri', sans-serif;
     overflow-x: hidden;
 }
@@ -74,58 +74,59 @@ header li:first-child a {
     margin: 10px 0;
     padding: 50px 7%;
 }
-.tahun50 {
+.celeb {
     margin: 30px 0 0;
     display: flex;
 }
-.tahun50 .list {
+.celeb .list {
     width: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.tahun50 .list .foto img {
+.celeb .list .foto img {
     width: 100%;
     object-fit: cover;
 }
-.tahun50 .list .desc {
+.celeb .list .desc {
     padding: 50px;
 }
-.tahun50 .list button {
+.celeb .list button {
     background: transparent;
     border: 1px solid #000;
-    border-radius: 15px;
+    border-radius: 30px;
     padding: 5px 10px;
     margin-top: 20px;
 }
-.tahun50 .list button.btn-white {
+.celeb .list button.btn-white {
     border: 1px solid #fff;
     color: white;
+    padding: 10px 30px;
 }
-.tahun50 h1, .tahun50 h2 {
+.celeb h1, .celeb h2 {
     padding: 0 100px;
     line-height: 60px;
 }
-.tahun50 p {
+.celeb p {
     font-size: 20px;
 }
-.tahun50 .list .reward {
+.celeb .list .reward {
     height: 590px;
 }
-.tahun50 .list .reward.left {
+.celeb .list .reward.left {
     margin-right: 15px;
 }
-.tahun50 .list .reward.right {
+.celeb .list .reward.right {
     margin-left: 15px;
 }
-.tahun50 .list .reward .foto {
+.celeb .list .reward .foto {
     margin-bottom: 10px;
 }
-.tahun50 .list .reward p {
+.celeb .list .reward p {
     margin-bottom: 10px;
     padding: 2%;
 }
-.tahun50 .list .reward a {
+.celeb .list .reward a {
     border: 1px solid #000;
     border-radius: 15px;
     padding: 2px 10px;
