@@ -2,7 +2,7 @@
     <x-slot name="title"> Home | Starbucks 2.0 </x-slot>
     <section class="home">
 
-        <div class="content-home green-2 font-white">
+        <div class="content-home green font-white">
             <div class="celeb">
                 <div class="list">
                     <div class="desc">
@@ -20,7 +20,7 @@
             </div>
         </div>
 
-        <div class="content-home green">
+        <div class="content-home purple">
             <div class="celeb">
                 <div class="list">
                     <div class="foto">
@@ -29,52 +29,52 @@
                 </div>
                 <div class="list">
                     <div class="desc">
-                        <h1> 50 YEARS, TOGETHER </h1>
+                        <h1> For the top Pop in your life </h1>
                         <br />
-                        <p> Since 1971, you’ve helped us see what’s possible. Every cup, every conversation, every day. Cheers to you. </p>
-                        <button> Explore </button>
+                        <p> This Father’s Day, show your appreciation for all he does with a thoughtful Starbucks eGift. </p>
+                        <button> Send an eGift </button>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="content-home green-2 font-white">
+        <div class="content-home pink">
             <div class="celeb">
                 <div class="list">
                     <div class="desc">
-                        <h2> 50 YEARS, TOGETHER </h2>
+                        <h2> Cinnamon caramel smooth </h2>
                         <br />
-                        <p> Since 1971, you’ve helped us see what’s possible. Every cup, every conversation, every day. Cheers to you. </p>
-                        <button class="btn-white"> Explore </button>
+                        <p> Our new Cinnamon Caramel Cream Nitro Cold Brew is ready on tap and topped with silky cold foam. </p>
+                        <button> Order now </button>
                     </div>
                 </div>
                 <div class="list">
                     <div class="foto">
-                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/home-2.webp') }}" alt="home 2" />
+                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/starbucks_cinnamon-caramel.jpg') }}" alt="home 2" />
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="content-home green">
+        <div class="content-home green-2">
             <div class="celeb">
                 <div class="list">
                     <div class="foto">
-                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/home-3.webp') }}" alt="home 3" />
+                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/starbucks_feta-wrap.jpg') }}" alt="home 3" />
                     </div>
                 </div>
                 <div class="list">
                     <div class="desc">
-                        <h2> Estamos unidos — We are united </h2>
+                        <h2> Get there satisfied </h2>
                         <br />
-                        <p> This Latinx Heritage Month, learn about the many ways our Latinx partners (employees) embrace their cultures. See how we are united in our diversity. </p>
-                        <button> Find out more </button>
+                        <p> Fill up on the way with a Spinach, Feta & Egg White Wrap or Bacon, Sausage & Egg Wrap. </p>
+                        <button> Order now </button>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="content-home choco">
+        <div class="content-home pink">
             <div class="celeb">
                 <div class="list">
                     <div class="desc">
@@ -93,28 +93,6 @@
         </div>
 
         <div class="content-home">
-            <div class="celeb">
-                <div class="list">
-                    <div class="reward left green">
-                        <div class="foto">
-                            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/home-5.jpg') }}" alt="home 5" />
-                        </div>
-                        <h3> Earning 4,500 Bonus Stars is Super Starifying </h3>
-                        <p> With a $0 intro annual fee for your first year, earn more Stars and even more Rewards with the Starbucks® Rewards Visa® Card. </p>
-                        <a href="#"> Learn more </a>
-                    </div>
-                </div>
-                <div class="list">
-                    <div class="reward right green">
-                        <div class="foto">
-                            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/home-6.webp') }}" alt="home 6" />
-                        </div>
-                        <h3> Fall into an easier routine </h3>
-                        <p> Get your favorites, your way—order, pay and pick up with the app. </p>
-                        <a href="#"> See pickup options </a>
-                    </div>
-                </div>
-            </div>
             <div class="note">
                 *NO PURCHASE NECESSARY. Participating stores only. Starbucks Partners (employees) are not eligible to win prizes. Ends 6/18/23. To play and for Official Rules visit starbuckssummergame.com.
                 Entrants can receive a maximum of 2 plays per day, plus, bonus opportunities to earn additional plays.

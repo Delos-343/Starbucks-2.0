@@ -1,7 +1,8 @@
-body {
+html, body {
     background: #f1f1f1;
     font-family: 'Hind Siliguri', sans-serif;
     overflow-x: hidden;
+    width: 100%;
 }
 
 ul, li, p, h1, h2, h3, body, html, figure {
@@ -57,13 +58,16 @@ header li:first-child a{
     color: #f1f1f1;
 }
 .green {
-    background: #dbe7e3;
+    background: #006241;
 }
 .green-2 {
-    background: #213b34;
+    background: #cbe678;
 }
-.choco {
-    background: #ebdbc8;
+.pink {
+    background: #eb81a5;
+}
+.purple {
+    background: #92cbff;
 }
 .content-home {
     max-width: 1440px;
