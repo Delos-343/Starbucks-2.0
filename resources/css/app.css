@@ -1,6 +1,7 @@
 body {
     background: white;
     font-family: 'Hind Siliguri', sans-serif;
+    overflow-x: hidden;
 }
 
 ul, li, p, h1, h2, h3, body, html, figure {
@@ -14,7 +15,7 @@ h1, h2 {
 
 a {
     text-decoration: none;
-    color: black;
+    color: #0c0c0c;
 }
 
 header {
@@ -53,7 +54,7 @@ header li:first-child a {
     padding: 10px 0 0 0;
 }
 .font-white {
-    color: white;
+    color: #f1f1f1;
 }
 .green {
     background: #dbe7e3;
@@ -134,7 +135,7 @@ header li:first-child a {
 
 footer {
     border-top: 1px solid #ccc;
-    padding: 30px 0;
+    padding: 2%;
 }
 footer .footer-l2 {
     width: 1350px;
