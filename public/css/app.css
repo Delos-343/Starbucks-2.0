@@ -225,13 +225,13 @@ footer .copyrights {
     margin-bottom: 10px;
     line-height: 25px;
 }
-#statusjaringan.online {
+#networkstatus.online {
     background: green;
     color: #cbd5e0;
     padding: 20px;
     text-align: center;
 }
-#statusjaringan.offline {
+#networkstatus.offline {
     background: tomato;
     color: cornsilk;
     padding: 20px;
