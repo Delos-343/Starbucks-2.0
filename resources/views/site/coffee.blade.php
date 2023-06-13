@@ -54,7 +54,7 @@
             with, from our partners to coffee farmers to the customers in our stores and beyond.
         </p>
         <nav>
-            <a href="#"> Learn to Brew your perfect cup </a>
+            <a href="#"> Learn to brew your perfect cup </a>
         </nav>
 
         <div class="note">
