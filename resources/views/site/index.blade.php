@@ -14,7 +14,7 @@
                 </div>
                 <div class="list">
                     <div class="foto">
-                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/starbucks_summer-game.jpg') }}" alt="home 1" />
+                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/summer-game.jpg') }}" alt="home 1" />
                     </div>
                 </div>
             </div>
@@ -24,7 +24,7 @@
             <div class="celeb">
                 <div class="list">
                     <div class="foto">
-                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/starbucks_father-day.jpg') }}" alt="home 2" />
+                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/father-day.jpg') }}" alt="home 2" />
                     </div>
                 </div>
                 <div class="list">
@@ -50,7 +50,7 @@
                 </div>
                 <div class="list">
                     <div class="foto">
-                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/starbucks_cinnamon-caramel.jpg') }}" alt="home 2" />
+                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/cinnamon-caramel.jpg') }}" alt="home 2" />
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@
             <div class="celeb">
                 <div class="list">
                     <div class="foto">
-                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/starbucks_feta-wrap.jpg') }}" alt="home 3" />
+                        <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/feta-wrap.jpg') }}" alt="home 3" />
                     </div>
                 </div>
                 <div class="list">
