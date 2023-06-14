@@ -24,6 +24,9 @@
             Still undecided? Our coffee masters have created a simple three-question quiz to help you find a Starbucks®
             coffee you&apos;re sure to love. Take our coffee quiz.
         </p>
+        <nav>
+            <a href="#"> Start Quiz </a>
+        </nav>
 
         <figure>
             <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/coffee/the-rarest-coffee.webp') }}"
@@ -46,12 +49,6 @@
         <p>
             Whether you&apos;re a coffee novice or a seasoned pro, we have all the tools you need to bring your brewing game
             to the next level.
-        </p>
-
-        <h3> People </h3>
-        <p>
-            Our aspiration is to be people positive &mdash; investing in humanity and the well-being of everyone we connect
-            with, from our partners to coffee farmers to the customers in our stores and beyond.
         </p>
         <nav>
             <a href="#"> Learn to brew your perfect cup </a>
