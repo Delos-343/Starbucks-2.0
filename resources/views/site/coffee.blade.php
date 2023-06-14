@@ -8,7 +8,7 @@
             blend or exploring our rarest offerings, you&apos;ve come to the right place.
         </p>
         <figure>
-            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/coffee/coffee-1.webp') }}"
+            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/coffee/lets-talk-coffee.webp') }}"
                  alt="our company picture"/>
         </figure>
         <h2> Find your favorite at-home coffee </h2>
@@ -26,7 +26,7 @@
         </p>
 
         <figure>
-            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/coffee/coffee-2.webp') }}"
+            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/coffee/the-rarest-coffee.webp') }}"
                  alt="our company picture"/>
         </figure>
         <h2> The rarest, most extraordinary coffees Starbucks has to offer </h2>
@@ -39,7 +39,7 @@
         </nav>
 
         <figure>
-            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/coffee/coffee-3.webp') }}"
+            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/coffee/how-to-brew.webp') }}"
                  alt="our company picture"/>
         </figure>
         <h2> How to brew </h2>
