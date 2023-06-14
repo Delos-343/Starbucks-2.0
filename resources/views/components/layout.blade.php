@@ -19,7 +19,7 @@
                         </svg>
                     </li>
                     <!-- Use : route('site.index') -->
-                    <li><a href="{{ route('site.index') }}"> MENU </a></li>
+                    <li><a href="{{ route('site.coffee') }}"> MENU </a></li>
                     <li><a href="{{ route('site.index') }}"> REWARDS </a></li>
                     <li><a href="{{ route('site.index') }}"> GIFT CARDS </a></li>
                 </ul>
