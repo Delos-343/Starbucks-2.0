@@ -2,7 +2,9 @@
     <x-slot name="title"> About Our Company </x-slot>
 
     <section class="container-about">
-        <h1>Our Company</h1>
+        <br />
+        <h1> Our Company </h1>
+        <br />
         <figure>
             <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/company/about-us.jpg') }}"
                  alt="our company picture"/>
@@ -72,7 +74,10 @@
             have a positive impact on the communities we serve.
         </p>
 
+        <br /><br />
+
         <h3> People </h3>
+        <br />
         <p>
             Our aspiration is to be people positive &mdash; investing in humanity and the well-being of everyone we connect
             with, from our partners to coffee farmers to the customers in our stores and beyond.
@@ -82,6 +87,7 @@
         </nav>
 
         <h3> Planet </h3>
+        <br />
         <p>
             We are striving to become resource positive &mdash; giving back more than we take from the planet. We are working
             to store more carbon than we emit, replenish more freshwater than we use, and eliminate waste. <br />
@@ -89,6 +95,50 @@
         </p>
         <nav>
             <a href="#"> Learn More </a>
+        </nav>
+
+        <h2> Learn More About Us </h2>
+
+        <br />
+
+        <h3> Stories & News </h3>
+        <br />
+        <p>
+            Behind every cup of coffee is a story. Enjoy some of our favorites along with all the latest news from the
+            storytellers at Starbucks Stories.
+        </p>
+        <nav>
+            <a href="#"> Check out Starbucks Stories </a>
+        </nav>
+
+        <h3> Company Profile </h3>
+        <br />
+        <p>
+            Here’s a closer look at our company.
+        </p>
+        <nav>
+            <a href="#"> Learn more </a>
+        </nav>
+
+        <h3> Company Timeline </h3>
+        <br />
+        <p>
+            Read a brief history of Starbucks, from 1971 through today.
+        </p>
+        <nav>
+            <a href="#"> Learn more </a>
+        </nav>
+
+        <h3> Ethics & Compliance </h3>
+        <br />
+        <nav>
+            <a href="#"> Learn more </a>
+        </nav>
+
+        <h3> Corporate Governance </h3>
+        <br />
+        <nav>
+            <a href="#"> Learn more </a>
         </nav>
     </section>
 </x-layout>
