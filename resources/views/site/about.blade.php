@@ -1,5 +1,5 @@
 <x-layout>
-    <x-slot name="title"> About Our Company </x-slot>
+    <x-slot name="title"> About Us | Starbucks 2.0 </x-slot>
 
     <section class="container-about">
         <br />
