@@ -24,12 +24,11 @@
         </p>
 
         <p>
-            Starbucks would soon expand to Chicago and Vancouver, Canada and then on to California, Washington, D.C. and
-            New York. By 1996, we would cross the Pacific to open our first store in Japan, followed by Europe in 1998
-            and China in 1999. Over the next two decades, we would grow to welcome millions of customers each week and
-            become a part of the fabric of tens of thousands of neighborhoods all around the world. In everything we do,
-            we are always dedicated to Our Mission: to inspire and nurture the human spirit &mdash; one person, one cup, and
-            one neighborhood at a time.
+            Starbucks would soon expand to Chicago and Vancouver, Canada and then on to California, Washington, D.C. and New York.
+            By 1996, we would cross the Pacific to open our first store in Japan, followed by Europe in 1998 and China in 1999.
+            Over the next two decades, we would grow to welcome millions of customers each week and become a part of the fabric of
+            tens of thousands of neighborhoods all around the world. In everything we do, we are always dedicated to Our Mission:
+            With every cup, with every conversation, with every community - we nurture the limitless possibilities of human connection.
         </p>
 
         <figure>
