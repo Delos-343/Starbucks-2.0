@@ -42,8 +42,8 @@
                     <div class="list">
                         <h3>About Us</h3>
                         <ul>
-                            <li><a href="{{ route('site.index') }}"> Our Company </a></li>
-                            <li><a href="{{ route('site.index') }}"> Our Coffee </a></li>
+                            <li><a href="{{ route('site.about') }}"> Our Company </a></li>
+                            <li><a href="{{ route('site.coffee') }}"> Our Coffee </a></li>
                             <li><a href="#"> Stories and News </a></li>
                             <li><a href="#"> Starbucks Archive </a></li>
                             <li><a href="#"> Investor Relations </a></li>
