@@ -63,7 +63,7 @@
         </nav>
 
         <figure>
-            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/our-company/oc-4.jpg') }}"
+            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/company/coffee-plantations.jpg') }}"
                  alt="our company picture"/>
         </figure>
         <h2> We Believe in the Pursuit of Doing Good </h2>
