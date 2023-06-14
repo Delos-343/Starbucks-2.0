@@ -25,7 +25,7 @@
             coffee you&apos;re sure to love. Take our coffee quiz.
         </p>
         <nav>
-            <a href="#"> Start Quiz </a>
+            <a href="#" class="solid"> Start Quiz </a>
         </nav>
 
         <figure>
