@@ -48,7 +48,7 @@
         </nav>
 
         <figure>
-            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/our-company/oc-3.webp') }}"
+            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/company/asl-comm.webp') }}"
                  alt="our company picture"/>
         </figure>
         <h2> Our Partners </h2>
