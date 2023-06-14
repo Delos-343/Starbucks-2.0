@@ -13,8 +13,7 @@
         </figure>
         <h2> Find your favorite at-home coffee </h2>
         <p>
-            From K-Cup® Pods to Starbucks VIA® packets to our packaged coffee, we&apos;ve compiled a wide selection of blends
-            and beans to fill your cup.
+            From K-Cup® Pods to Starbucks VIA® packets to our packaged coffee, we&apos;ve compiled a wide selection of coffee to fill your cup.
         </p>
         <nav>
             <a href="#" class="solid"> Browse our Coffee </a>
