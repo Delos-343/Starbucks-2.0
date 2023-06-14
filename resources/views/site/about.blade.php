@@ -4,7 +4,7 @@
     <section class="container-about">
         <h1>Our Company</h1>
         <figure>
-            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/our-company/oc-1.jpg') }}"
+            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/company/oc-1.jpg') }}"
                  alt="our company picture"/>
         </figure>
         <h2> Our Heritage </h2>
