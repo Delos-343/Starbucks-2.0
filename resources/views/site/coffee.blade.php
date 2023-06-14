@@ -1,7 +1,8 @@
 <x-layout>
-    <x-slot name="title"> About Our Company </x-slot>
+    <x-slot name="title"> Coffee | Starbucks 2.0 </x-slot>
 
     <section class="container-about">
+        <br />
         <h1> Let's talk coffee </h1>
         <p>
             Whether you're searching for something new to warm your mug, seeking the best brew method for your favorite
