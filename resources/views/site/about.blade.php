@@ -32,7 +32,7 @@
         </p>
 
         <figure>
-            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/company/barisa-brewing.jpg') }}" alt="barista brewing coffee"/>
+            <img src="{{ \Illuminate\Support\Facades\URL::asset('/images/company/barista-brewing.jpg') }}" alt="barista brewing coffee"/>
         </figure>
 
         <h2> Coffee & Craft </h2>
